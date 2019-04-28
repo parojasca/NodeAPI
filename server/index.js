@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+
 const PORT = 3000;
 
 require("../routes/api.js")(app);
@@ -12,6 +13,7 @@ function init(){
         console.log("server activo")
     });
 }
+
  init();
  /*
 app.get('/', function (req, res) {
