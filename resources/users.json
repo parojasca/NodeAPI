@@ -2,28 +2,17 @@
   {
     "id": 1,
     "Nombre": "Simon Bolivar",
-    "Position": {
-      "tipo": "punto",
-      "Coordenadas": [
-        4.661091,
-        -74.092537
-      ]
-    }
+    "position": {"lat":4.661091,"lng": -74.092537}
   },
   {
     "id": 2,
     "Nombre": "Jardin Botanico",
-    "Position": {
-      "tipo": "punto",
-      "Coordenadas": [
-        4.668356,
-        -74.101559
-      ]
-    }
-  },
+    "position": {"lat":4.668356, "lng":-74.101559}
+    },
   {
     "id": 3,
     "Nombre": "Alcazáres",
+<<<<<<< HEAD
     "Position": {
       "tipo": "poligono",
       "Coordenadas": [
@@ -70,5 +59,8 @@
         -74.092537
       ]
     }
+=======
+   "position": {"lat":4.662847, "lng":-74.070468}
+>>>>>>> 6e8362e65773e2403435e57959cd0c3175675fa7
   }
 ]
