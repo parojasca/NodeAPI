@@ -12,7 +12,6 @@
   {
     "id": 3,
     "Nombre": "Alcazáres",
-<<<<<<< HEAD
     "Position": {
       "tipo": "poligono",
       "Coordenadas": [
@@ -59,8 +58,5 @@
         -74.092537
       ]
     }
-=======
-   "position": {"lat":4.662847, "lng":-74.070468}
->>>>>>> 6e8362e65773e2403435e57959cd0c3175675fa7
   }
 ]
