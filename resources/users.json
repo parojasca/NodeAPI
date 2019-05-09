@@ -22,7 +22,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 3,
     "Nombre": "Alcazáres",
     "Position": {
       "tipo": "poligono",
@@ -57,6 +57,17 @@
             -74.068688
           ]
         ]
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "Nombre": "San Antonio",
+    "Position": {
+      "tipo": "punto",
+      "Coordenadas": [
+        4.661091,
+        -74.092537
       ]
     }
   }
